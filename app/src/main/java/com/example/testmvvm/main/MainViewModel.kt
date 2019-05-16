@@ -1,8 +1,8 @@
-package com.example.testmvvm.ui.main
+package com.example.testmvvm.main
 
 import androidx.databinding.ObservableField
 import androidx.lifecycle.ViewModel
-import com.example.testmvvm.User
+import com.example.testmvvm.models.User
 
 class MainViewModel : ViewModel() {
     var user = ObservableField<User>()

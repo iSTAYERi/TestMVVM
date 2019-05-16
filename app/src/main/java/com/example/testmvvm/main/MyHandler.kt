@@ -1,4 +1,4 @@
-package com.example.testmvvm.ui.main
+package com.example.testmvvm.main
 
 abstract class MyHandler {
 

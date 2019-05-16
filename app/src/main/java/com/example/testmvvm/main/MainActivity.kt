@@ -1,8 +1,9 @@
-package com.example.testmvvm
+package com.example.testmvvm.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.testmvvm.ui.main.MainFragment
+import com.example.testmvvm.R
+
 
 class MainActivity : AppCompatActivity() {
 
@@ -15,5 +16,4 @@ class MainActivity : AppCompatActivity() {
                 .commitNow()
         }
     }
-
 }
